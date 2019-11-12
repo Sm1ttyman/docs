@@ -70,5 +70,8 @@ This allows you to both be LR capable if you are placed in a position requiring 
 - **SR TRANSMIT ADDITIONAL** - Ctrl+Caps Lock
 
 ## Medics
+- LR Medical Lead: `70` (LR CH1)
+- SR Med 1ST PLT: `71` (SR CH1)
+- SR Med 2ND PLT: `72` (SR CH1) 
 
 ## FO Squadron
